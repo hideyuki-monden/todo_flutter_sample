@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "85377337118",
+    "project_id": "todo-4-app",
+    "storage_bucket": "todo-4-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85377337118:android:40d22fda9afa8999baeb0f",
+        "android_client_info": {
+          "package_name": "hideyuki.todo_4_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85377337118-rf3ebvg1q3e2hnfrrrksen56iu5t9k50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcQtp-xGQCVBBp-DHsw_HTwaHsdLSgkD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85377337118-rf3ebvg1q3e2hnfrrrksen56iu5t9k50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "85377337118-g3gib3r9ens6k04upnndjkmr7hi0md3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hideyuki.todo4App"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
